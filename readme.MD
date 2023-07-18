@@ -1,9 +1,7 @@
-````markdown
-<h1 align="center">Food Explorer - Explore the Culinary World</h1>
+```markdown
+# Food Explorer - Explore the Culinary World
 
-<p align="center">
-  Welcome to the Food Explorer project! This is the final challenge of the Explorer course where I created both the FrontEnd and BackEnd of the application.
-</p>
+Welcome to the Food Explorer project! This is the final challenge of the Explorer course where I created both the FrontEnd and BackEnd of the application.
 
 ---
 
@@ -44,10 +42,8 @@ The following technologies were used in the development of this project:
 Clone the project to your desired location on your computer.
 
 ```bash
-$ git clone git@github.com:EduardoVisconti/FoodExplore_Front.git
-$ git clone git@github.com:EduardoVisconti/FoodExplore_API.git
+$ git clone git@github.com:EduardoVisconti/FoodExplore.git
 ```
-````
 
 ---
 
@@ -94,9 +90,10 @@ $ npm run dev
    - Login: client
    - Password: 1234
 
-   **Admin:**
+**Admin:**
 
    - Login: adm
    - Password: 123
-
 ```
+
+Espero que agora o README esteja correto. Se precisar de mais ajuda, é só perguntar!
