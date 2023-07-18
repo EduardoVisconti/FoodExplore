@@ -87,26 +87,16 @@ $ npm run dev
   http://localhost:5173/
 ```
 
-#### Admin Login
+#### User / Admin Login
 
-Want to see how the application works from the Admin's perspective? Use the following account:
+**User:**
 
-```bash
-  e-mail: admin@foodexplorer.com
-  password: 123456
-```
+   - Login: client
+   - Password: 1234
 
----
+   **Admin:**
 
-This Backend was hosted directly on Render, while the Frontend was hosted directly on Netlify.
+   - Login: adm
+   - Password: 123
 
----
-
-Note: Since it is hosted on a free service, the Backend "hibernates" after 15 minutes of inactivity. If you are trying to access the site and the Backend is not responding, just wait as it will be "waking up" the services. This step may take up to 1 minute, depending on the load on the Render servers.
-
-[The FINAL result can be viewed here](https://foodexplorer.netlify.app/)
-
-```
-
-Remember to replace "yourusername" and "yourrepository" with your actual GitHub username and repository name. Customize the content further as needed for your project!
 ```
