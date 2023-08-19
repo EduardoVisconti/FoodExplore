@@ -1,4 +1,3 @@
-```markdown
 # Food Explorer - Explore the Culinary World
 
 Welcome to the Food Explorer project! This is the final challenge of the Explorer course where I created both the FrontEnd and BackEnd of the application.
@@ -10,6 +9,16 @@ Welcome to the Food Explorer project! This is the final challenge of the Explore
 Food Explorer is a web application for a restaurant. After registering on the platform, users can create orders and track their status. The application includes profile customization, favorite filtering, search functionality, and a contact section with the restaurant. The shopping cart is fully functional, and users can choose between two payment methods (credit card or Pix). The Administrator has the capability to create/edit/remove dishes as desired. They can also update the status of orders based on their preparation stage in the kitchen. The status changes are immediately reflected on the consumer's screen. The project also includes various "extras" such as theme switching, user profile customization (avatar, name, and password), and several visual effects. Most importantly, it is fully responsive for use on different types of devices!
 
 This repository contains the Frontend and Backend data for my React.js and Node.js application.
+
+---
+
+## 🎨 Layout
+
+A página inicial em formato desktop é vista na imagem abaixo:
+
+![foodexplorer](https://i.imgur.com/mUQPGCB.png)
+
+![foodexplorer](https://i.imgur.com/ruGPSug.png)
 
 ---
 
@@ -87,13 +96,10 @@ $ npm run dev
 
 **User:**
 
-   - Login: client
-   - Password: 1234
+- Login: client
+- Password: 1234
 
 **Admin:**
 
-   - Login: adm
-   - Password: 123
-```
-
-Espero que agora o README esteja correto. Se precisar de mais ajuda, é só perguntar!
+- Login: adm
+- Password: 123
