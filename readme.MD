@@ -103,3 +103,15 @@ $ npm run dev
 
 - Login: adm
 - Password: 123
+
+## Contributing
+
+Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request. Please make sure to follow the [contributing guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Created with ❤️ by [Eduardo Visconti](https://github.com/EduardoVisconti)
