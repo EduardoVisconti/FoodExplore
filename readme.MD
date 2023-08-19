@@ -14,8 +14,6 @@ This repository contains the Frontend and Backend data for my React.js and Node.
 
 ## 🎨 Layout
 
-A página inicial em formato desktop é vista na imagem abaixo:
-
 ![foodexplorer](https://i.imgur.com/mUQPGCB.png)
 
 ![foodexplorer](https://i.imgur.com/ruGPSug.png)
